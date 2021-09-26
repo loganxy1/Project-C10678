@@ -1,0 +1,53 @@
+body{
+    background-color: fuchsia;
+}
+
+h2{
+    font-family: Gluten;
+    color: firebrick;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-size: 20px;
+    line-height: 5;
+    font-weight: bold;
+    font-family: gluten;
+    text-shadow: 5px 5px 5px grey;
+    background-color: teal;
+}
+
+.header_div{
+    background-color: whitesmoke;
+}
+
+#main_div{
+    background-color: fuchsia;
+    color: lime;
+    height: 800px;
+}
+
+.header_div p{
+    font-family: Stick No Bills, sans-serif;
+    color: #a200ff;
+    font-size: 16px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+
+#main_div button{
+    margin-top: 20px;
+    width: 130px;
+    background-color:lime;
+    font-size: 20px;
+    font-family: gluten;
+}
+
+#result_label, #result_confidence{
+    font-family: Stick No Bills, sans-serif;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
